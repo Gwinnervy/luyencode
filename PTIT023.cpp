@@ -7,6 +7,6 @@ int main ()
 {
 	int n;
 	cin >> n;
-	cout << 2021-n;
+	printf("%d\n", 2021-n);
 	return 0;
 }
